@@ -30,4 +30,6 @@ https://reactjs.org/docs/react-component.html
 https://www.debuggr.io/react-setstate-is-not-a-function/
 https://reactjs.org/docs/react-component.html#unsafe_componentwillreceiveprops  
 https://www.debuggr.io/react-setstate-is-not-a-function/
-
+https://www.atlassian.com/git/tutorials/using-branches/git-merge
+https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error
+https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git
